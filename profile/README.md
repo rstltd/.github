@@ -32,6 +32,6 @@ We actively seek collaborative opportunities to expand the applications of remot
 
 ### 📬 Get in Touch
 
-- **Website:** [rstltd.mystrikingly.com](https://rstltd.mystrikingly.com/)
-- **Email:** nokilin@gmail.com
-- **Location:** No. 1, Daxue Rd., Puli Township, Nantou County 545301, Taiwan (R.O.C.)
+- **官方網站**：[https://rstltd.mystrikingly.com/](https://rstltd.mystrikingly.com/)
+- **電子信箱**：it-service@rstltd.org, nokilin@gmail.com  
+- **公司地址**：No. 7, Aly. 12, Ln. 180, Zhengde Rd., Shalu Dist., Taichung City 433102, Taiwan (R.O.C.)
