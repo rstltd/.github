@@ -30,6 +30,6 @@ RST Ltd. 積極尋求跨領域合作機會，共同拓展遙測技術的應用�
 
 ## 📬 聯絡我們
 
-- **官方網站**：[https://rstltd.mystrikingly.com/](https://rstltd.mystrikingly.com/)
-- **電子信箱**：it-service@rstltd.org, nokilin@gmail.com  
+- **官方網站**：[https://rstltd.org](https://rstltd.org)
+- **電子信箱**：support@rstltd.org, nokilin@gmail.com   
 - **公司地址**：433102 台中市沙鹿區正德路 180 巷 12 弄 7 號
