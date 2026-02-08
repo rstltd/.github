@@ -1,5 +1,6 @@
 # Remote Sensing Technologies Ltd. (RST Ltd.)
 > [繁體中文版](https://github.com/rstltd/.github/blob/main/profile/README_zh.md)
+> [核心原則](https://github.com/rstltd/.github/blob/main/profile/Principles.md)
 
 ### 🚩 About Us
 
