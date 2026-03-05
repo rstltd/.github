@@ -32,6 +32,6 @@ We actively seek collaborative opportunities to expand the applications of remot
 
 ### 📬 Get in Touch
 
-- **Home website**：[https://rstltd.org](https://rstltd.com)
+- **Home website**：[https://rstltd.com](https://rstltd.com)
 - **Email address**：support@rstltd.com, nokilin@rstltd.com  
 - **Company address**：No. 7, Aly. 12, Ln. 180, Zhengde Rd., Shalu Dist., Taichung City 433102, Taiwan (R.O.C.)
